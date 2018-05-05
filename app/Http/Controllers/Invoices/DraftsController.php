@@ -12,7 +12,7 @@ use Illuminate\Http\Request;
 /**
  * Invoice Drafts Controller.
  *
- * @author Nafies Luthfi <nafiesL@gmail.com>
+ 
  */
 class DraftsController extends Controller
 {

@@ -11,7 +11,7 @@ use Illuminate\Http\Request;
 /**
  * Subscriptions Controller.
  *
- * @author Nafies Luthfi <nafiesL@gmail.com>
+ * 
  */
 class SubscriptionsController extends Controller
 {

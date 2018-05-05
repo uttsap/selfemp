@@ -11,7 +11,7 @@ use Illuminate\Http\Request;
 /**
  * Jobs Controller.
  *
- * @author Nafies Luthfi <nafiesl@gmail.com>
+ * 
  */
 class JobsController extends Controller
 {

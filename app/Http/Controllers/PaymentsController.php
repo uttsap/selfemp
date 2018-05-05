@@ -13,7 +13,7 @@ use Illuminate\Http\Request;
 /**
  * Payments Controller class.
  *
- * @author Nafies Luthfi <nafiesL@gmail.com>
+ * 
  */
 class PaymentsController extends Controller
 {
